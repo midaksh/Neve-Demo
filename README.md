@@ -1,6 +1,7 @@
 # Linecheck 2025 Festival Website
 # NEVE - Jr Frontend Developer (Trial)
-
+## [Live Site](https://neve-midaksh-pandita.vercel.app)
+ 
 # Features
 
 - **Responsive Design**: Mobile-first approach with seamless desktop experience
@@ -219,5 +220,5 @@ Live Website Link: https://neve-midaksh-pandita.vercel.app
 ## 🙏 Acknowledgments
 
 - Design by Neve
-- Code by [Midaksh Pandita][https://www.linkedin.com/in/midakshpandita]
+- Code by [Midaksh Pandita](https://www.linkedin.com/in/midakshpandita)
 - Festival organized by Linecheck Team
