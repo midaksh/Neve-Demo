@@ -20,11 +20,13 @@ Deign and developed with nextJS for better SEO and visual effects
 - Firefox
 
 ## Run Code
+Step 1:
 ```npm i``` or ```npm install```
+Step 2:
 ```npm run dev```
 
 # Development Environment
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open "http://localhost:3000" with your browser to see the result.
 
 ## Code File structure
 - ./app/page.tsx : The main Home Page, all the components are imported inside it.
