@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+### NEVE - Jr Frontend Developer (Trial)
 
-## Getting Started
+## Tech Stack
+Deign and developed with nextJS for better SEO and visual effects
 
-First, run the development server:
+## Dependencies
+- For better rendering and fluid animations used `framer motion`
+- Visit the [package.json](./package.json) file.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Resources 
+- Original Website
+- [Figma File](https://www.figma.com/design/Zob7BtHBAlcsyo4Z9gfRXG/Neve---Application-Assignment?node-id=2-23&t=xsQvUJzuUlzhXNkk-1)
+- Fonts zip file for (**Arial Narrow** and **Da Vinci**)
+- [package.json](./package.json) file.
 
+## Browser QA Testing
+- Arc (Chromium-based)
+- Chrome
+- Safari
+- Firefox
+
+## Run Code
+```npm i``` or ```npm install```
+```npm run dev```
+
+# Development Environment
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Code File structure
+- ./app/page.tsx : The main Home Page, all the components are imported inside it.
+- ./app/layout.tsx: This file contains all the **meta data** and serves as the foundation for the website’s structural rendering.
+- ./app/Components/ This folder contains all the sectional content for the Home Page.
+- ./app/globals.css file contains all the styling variables and consistent styling elements.
+  
+## Production Site
+# Deploy on Vercel
+Live Website Link: https://neve-midaksh-pandita.vercel.app
